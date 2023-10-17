@@ -1,4 +1,4 @@
-# 🌐 LeChenZ Image Hosting Configuration Guide 🚀
+# 🌐 Configuration Guide 🚀
 
 To configure my website, follow these simple steps:
 
@@ -28,7 +28,7 @@ If you download my project, please give it a ⭐ (star). It will encourage me to
 
 ---
 
-# 🌐 Guide de Configuration de LeChenZ Image Hosting 🚀
+# 🌐 Guide de Configuration 🚀
 
 Pour configurer mon site web, suivez ces étapes simples :
 
