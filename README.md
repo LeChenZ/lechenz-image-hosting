@@ -57,7 +57,3 @@ N'oubliez pas de créer un dossier nommé upload pour stocker les fichiers tél�
 Si vous téléchargez mon projet, n'oubliez pas de lui donner une ⭐ (star). Cela m'encouragera à continuer d'améliorer ce projet !
 
 ---
-
-*This project is licensed under the MIT license - see the [LICENSE](LICENSE) file for more details.*
-
-*Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.*
